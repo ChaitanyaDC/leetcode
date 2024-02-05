@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using leetcode.challenges._217ContainsDuplicate;
+﻿using leetcode.challenges._347TopKFrequentElements;
 
 Console.WriteLine("Hello, World!");
-_217ContainsDuplicate.ContainsDuplicate();
+_347TopKFrequentElements.Test();
