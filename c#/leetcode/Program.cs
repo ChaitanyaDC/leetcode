@@ -1,4 +1,4 @@
-﻿using leetcode.challenges._347TopKFrequentElements;
+﻿using leetcode.challenges._238ProductofArrayExceptSelf;
 
 Console.WriteLine("Hello, World!");
-_347TopKFrequentElements.Test();
+_238ProductofArrayExceptSelf.Test();
