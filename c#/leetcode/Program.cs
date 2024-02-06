@@ -1,4 +1,4 @@
-﻿using leetcode.challenges.Stacks._155MinStack;
+﻿using leetcode.challenges.Stacks._84LargestRectangleinHistogram;
 
 Console.WriteLine("Hello, World!");
-_155MinStack.Test();
+_84LargestRectangleinHistogram.Test();
