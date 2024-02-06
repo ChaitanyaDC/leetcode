@@ -1,4 +1,4 @@
-namespace leetcode.challenges._217ContainsDuplicate;
+namespace leetcode.challenges.ArraysAndDictionary._217ContainsDuplicate;
 
 public class Solution {
     public bool ContainsDuplicate(int[] nums) {

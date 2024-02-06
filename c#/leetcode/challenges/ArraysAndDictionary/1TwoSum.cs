@@ -1,4 +1,4 @@
-namespace leetcode.challenges._1TwoSum;
+namespace leetcode.challenges.ArraysAndDictionary._1TwoSum;
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         Dictionary<int, int> numsDict = new Dictionary<int, int>();

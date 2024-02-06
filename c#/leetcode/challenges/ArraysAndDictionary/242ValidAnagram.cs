@@ -1,4 +1,4 @@
-namespace leetcode.challenges._242ValidAnagram;
+namespace leetcode.challenges.ArraysAndDictionary._242ValidAnagram;
 
 public class Solution {
     public bool IsAnagram(string s, string t) {

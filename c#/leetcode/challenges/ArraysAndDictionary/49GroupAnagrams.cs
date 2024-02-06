@@ -1,4 +1,4 @@
-namespace leetcode.challenges._49GroupAnagrams;
+namespace leetcode.challenges.ArraysAndDictionary._49GroupAnagrams;
 using System;
 using System.Collections.Generic;
 using System.Linq;

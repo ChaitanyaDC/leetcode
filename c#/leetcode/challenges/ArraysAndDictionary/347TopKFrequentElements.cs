@@ -1,4 +1,4 @@
-namespace leetcode.challenges._347TopKFrequentElements;
+namespace leetcode.challenges.ArraysAndDictionary._347TopKFrequentElements;
 public class Solution {
     public int[] TopKFrequent(int[] nums, int k) {
         Dictionary<int, int> dictCount = new Dictionary<int, int>();

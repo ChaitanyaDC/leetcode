@@ -1,4 +1,4 @@
-﻿using leetcode.challenges._238ProductofArrayExceptSelf;
+﻿using leetcode.challenges.Stacks._155MinStack;
 
 Console.WriteLine("Hello, World!");
-_238ProductofArrayExceptSelf.Test();
+_155MinStack.Test();

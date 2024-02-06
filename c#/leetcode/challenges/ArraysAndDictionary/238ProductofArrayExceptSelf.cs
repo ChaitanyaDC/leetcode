@@ -1,4 +1,4 @@
-namespace leetcode.challenges._238ProductofArrayExceptSelf;
+namespace leetcode.challenges.ArraysAndDictionary._238ProductofArrayExceptSelf;
 
 public class Solution {
     public int[] ProductExceptSelf(int[] nums) {
