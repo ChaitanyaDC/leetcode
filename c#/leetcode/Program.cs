@@ -1,4 +1,6 @@
-﻿using leetcode.challenges.Stacks._84LargestRectangleinHistogram;
+﻿using leetcode.challenges.BinarySearch._4MedianofTwoSortedArrays;
 
 Console.WriteLine("Hello, World!");
-_84LargestRectangleinHistogram.Test();
+_4MedianofTwoSortedArrays.Test();
+
+
