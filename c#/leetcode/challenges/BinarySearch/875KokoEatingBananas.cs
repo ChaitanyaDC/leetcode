@@ -17,7 +17,7 @@ public class Solution {
                 // j-1 for 6/3 which is 2
                 //  this is incorrect as we are adding one to the op
                 //  so minus one to get answer 1 and then we add 1 which makes it 2
-                c += (j - 1) / mid + 1;
+                c += Convert.ToInt32(Math.Ceiling((double)j/mid));
             }
 
             if (c > h)
