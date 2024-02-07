@@ -1,6 +1,6 @@
-﻿using leetcode.challenges.LinkedList._25ReverseNodesinKGroup;
+﻿using leetcode.challenges.Tries._212WordSearchII;
 
 Console.WriteLine("Hello, World!");
-_25ReverseNodesinKGroup.Test();
+_212WordSearchII.Test();
 
 
