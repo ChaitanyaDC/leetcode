@@ -1,6 +1,6 @@
-﻿using leetcode.challenges.Tries._212WordSearchII;
+﻿using leetcode.challenges.Intervals._919MeetingRoomsII;
 
 Console.WriteLine("Hello, World!");
-_212WordSearchII.Test();
+_919MeetingRoomsII.Test();
 
 
