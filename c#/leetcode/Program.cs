@@ -1,6 +1,6 @@
-﻿using leetcode.challenges.Intervals._919MeetingRoomsII;
+﻿using leetcode.challenges.SlidingWindow._424LongestRepeatingCharacterReplacement;
 
 Console.WriteLine("Hello, World!");
-_919MeetingRoomsII.Test();
+_424LongestRepeatingCharacterReplacement.Test();
 
 
