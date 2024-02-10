@@ -1,6 +1,6 @@
-﻿using leetcode.challenges.SlidingWindow._424LongestRepeatingCharacterReplacement;
+﻿using leetcode.challenges.Trees._102BinaryTreeLevelOrderTraversal;
 
 Console.WriteLine("Hello, World!");
-_424LongestRepeatingCharacterReplacement.Test();
+_102BinaryTreeLevelOrderTraversal.Test();
 
 
